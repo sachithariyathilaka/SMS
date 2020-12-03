@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10db11f5-4f9d-4704-9082-24079039e8d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sms/lib/pages/Student/Course.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/pages/Student/CourseView.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/pages/Student/assignments.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/pages/Student/attendanceCourse.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/pages/Student/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/pages/Student/notes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/widget/StudentSlidebar/StudentNavigationDraweNotes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/widget/StudentSlidebar/StudentNavigationDrawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/widget/StudentSlidebar/StudentNavigationDrawerAssignments.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/widget/StudentSlidebar/StudentNavigationDrawerAttendance.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/lib/widget/StudentSlidebar/StudentNavigationDrawerCourses.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/lib/authentication/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sms/lib/authentication/login_screen.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h8VpvDdSUHqfVbFGJ9ZEi7fVDI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sms/lib/pages/teacher" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Flutter Projects\SMS App\frontend\sms\lib\pages\teacher" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Flutter Projects\SMS App\frontend\sms\lib\widget\teacherSidebar" />
+      <recent name="E:\Projects\Flutter Projects\SMS App\frontend\sms\lib\model" />
+      <recent name="E:\Projects\Flutter Projects\SMS App\frontend\sms\lib\widget\adminSidebar" />
+      <recent name="E:\Projects\Flutter Projects\SMS App\frontend\sms\lib\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Flutter" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/sms/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10db11f5-4f9d-4704-9082-24079039e8d7" name="Default Changelist" comment="" />
+      <created>1598455170932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598455170932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="509" height="466" key="DebuggerActiveHint" timestamp="1600159412717">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="509" height="466" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1600159412717" />
+    <state width="1323" height="257" key="GridCell.Tab.0.bottom" timestamp="1600163857333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="257" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600163857333" />
+    <state width="1323" height="257" key="GridCell.Tab.0.center" timestamp="1600163857333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="257" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600163857333" />
+    <state width="1323" height="257" key="GridCell.Tab.0.left" timestamp="1600163857332">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="257" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600163857332" />
+    <state width="1323" height="257" key="GridCell.Tab.0.right" timestamp="1600163857333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="257" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600163857333" />
+    <state width="1323" height="345" key="GridCell.Tab.1.bottom" timestamp="1600163857300">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="345" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600163857300" />
+    <state width="1323" height="345" key="GridCell.Tab.1.center" timestamp="1600163857300">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="345" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1600163857300" />
+    <state width="1323" height="345" key="GridCell.Tab.1.left" timestamp="1600163857299">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="345" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1600163857299" />
+    <state width="1323" height="345" key="GridCell.Tab.1.right" timestamp="1600163857300">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="345" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1600163857300" />
+    <state width="691" height="392" key="XDebugger.FullValuePopup" timestamp="1600163688114">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="691" height="392" key="XDebugger.FullValuePopup/0.0.1366.768@0.0.1366.768" timestamp="1600163688114" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/teacher/setting.dart</url>
+          <line>231</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/teacher/setting.dart</url>
+          <line>232</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart</url>
+          <line>112</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart</url>
+          <line>113</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart</url>
+          <line>114</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart</url>
+          <line>115</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart</url>
+          <line>116</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart</url>
+          <line>117</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart</url>
+          <line>118</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/viewDates.dart</url>
+          <line>119</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/sms/lib/pages/Student/notes.dart</url>
+          <line>65</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
